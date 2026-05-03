@@ -1,0 +1,112 @@
+name: United States Capitol Police Vocabulary
+description: >-
+  Domain vocabulary for the United States Capitol Police covering law enforcement
+  operations, Capitol complex security, legislative branch protection, and
+  public information concepts.
+tags:
+  - Law Enforcement
+  - Federal Government
+  - Legislative Branch
+  - Security
+  - Public Safety
+created: '2026-05-03'
+modified: '2026-05-03'
+
+terms:
+
+  - term: Capitol Complex
+    label: Capitol Complex
+    definition: >-
+      The group of buildings and grounds in Washington, D.C. that house the
+      United States Congress, including the U.S. Capitol building, House and
+      Senate office buildings, the Capitol Visitor Center, and the Capitol
+      Grounds. The USCP is responsible for security within the Capitol Complex.
+    tags:
+      - Jurisdiction
+      - Geography
+
+  - term: Congressional Protection
+    label: Congressional Protection
+    definition: >-
+      Security services provided by the USCP to protect Members of Congress,
+      their families, and staff from threats. This includes on-campus protection,
+      protective details for leadership, and threat assessment services.
+    tags:
+      - Operations
+      - Security
+
+  - term: FOIA-Like Process
+    label: FOIA-Like Request Process
+    definition: >-
+      The records access process adopted by the U.S. Capitol Police in 2024,
+      modeled after the Freedom of Information Act (FOIA) but applicable to
+      the legislative branch. The process allows members of the public to request
+      certain USCP records, which are not otherwise subject to federal FOIA law
+      because the USCP is a legislative branch entity.
+    tags:
+      - Transparency
+      - Records Access
+
+  - term: Intelligence And Threat Assessment
+    label: Intelligence and Threat Assessment
+    definition: >-
+      The USCP's capability to gather, analyze, and act on intelligence
+      concerning potential threats to the Capitol Complex, Members of Congress,
+      and the institution of Congress. Includes coordination with federal, state,
+      and local law enforcement partners.
+    tags:
+      - Intelligence
+      - Operations
+
+  - term: Legislative Branch
+    label: Legislative Branch
+    definition: >-
+      One of the three branches of the U.S. federal government, consisting of
+      the U.S. Congress (House of Representatives and Senate). The USCP is part
+      of the legislative branch and operates under the authority of the Capitol
+      Police Board rather than the executive branch.
+    tags:
+      - Government
+      - Jurisdiction
+
+  - term: Officer Wellness
+    label: Officer Wellness
+    definition: >-
+      Programs and services provided to support the mental health, physical
+      health, and overall well-being of USCP officers and staff, particularly
+      following high-stress incidents.
+    tags:
+      - Personnel
+      - Programs
+
+  - term: Perimeter Security
+    label: Perimeter Security
+    definition: >-
+      Physical and electronic security measures used to protect the boundaries
+      of the Capitol Complex, including fencing, barriers, checkpoint operations,
+      and surveillance systems.
+    tags:
+      - Security
+      - Operations
+
+  - term: Public Events Security
+    label: Public Events Security
+    definition: >-
+      Security planning and operations for protests, demonstrations, and large
+      public gatherings on Capitol Grounds. The USCP coordinates First Amendment
+      activities and maintains public order during permitted events.
+    tags:
+      - Operations
+      - Public Safety
+
+  - term: USCP
+    label: United States Capitol Police
+    abbreviation: USCP
+    definition: >-
+      A federal law enforcement agency within the legislative branch of the U.S.
+      government, established by Congress to protect the U.S. Capitol complex,
+      Members of Congress, and the democratic process. The USCP employs
+      approximately 2,300 officers and civilian employees.
+    tags:
+      - Organization
+      - Law Enforcement

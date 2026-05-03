@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "uscp": "https://www.uscp.gov/vocab#",
+
+    "LawEnforcementAgency": {
+      "@id": "schema:GovernmentOrganization",
+      "@type": "@id"
+    },
+    "PoliceIncident": {
+      "@id": "uscp:PoliceIncident",
+      "@type": "@id"
+    },
+    "SecurityOperation": {
+      "@id": "uscp:SecurityOperation",
+      "@type": "@id"
+    },
+    "CapitolComplex": {
+      "@id": "uscp:CapitolComplex",
+      "@type": "@id"
+    },
+    "LegislativeBranchSecurity": {
+      "@id": "uscp:LegislativeBranchSecurity",
+      "@type": "@id"
+    },
+    "PressRelease": {
+      "@id": "schema:NewsArticle",
+      "@type": "@id"
+    },
+    "RecordsRequest": {
+      "@id": "uscp:RecordsRequest",
+      "@type": "@id"
+    },
+    "employmentOpportunity": {
+      "@id": "schema:jobPosting",
+      "@type": "@id"
+    },
+    "jurisdiction": {
+      "@id": "uscp:jurisdiction",
+      "@type": "@id"
+    },
+    "missionArea": {
+      "@id": "uscp:missionArea"
+    },
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "date": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:date"
+    }
+  }
+}
