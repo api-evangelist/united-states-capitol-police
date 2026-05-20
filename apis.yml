@@ -26,6 +26,8 @@ description: >-
   certain records publicly available upon request.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/united-states-capitol-police
   - type: Website
     url: https://www.uscp.gov/
   - type: NewsService
