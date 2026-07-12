@@ -26,6 +26,8 @@ description: >-
   certain records publicly available upon request.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/united-states-capitol-police-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/united-states-capitol-police
   - type: Website
