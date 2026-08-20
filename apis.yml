@@ -3,6 +3,12 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/united-states-capitol-police/refs/heads/main/apis.yml
 name: United States Capitol Police
 tags:
+  - Federal-Government
+  - Law Enforcement
+  - Legislative Branch
+  - Security
+  - Public Safety
+tags_raw:
   - Federal Government
   - Law Enforcement
   - Legislative Branch
