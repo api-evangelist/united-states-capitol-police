@@ -41,7 +41,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/united-sta
 access: 3rd-Party
 created: '2024-12-03'
 modified: '2026-05-03'
-position: Consumer
+position: Consuming
 description: >-
   The United States Capitol Police (USCP) is a federal law enforcement agency
   responsible for protecting the U.S. Capitol Building, members of Congress, and
