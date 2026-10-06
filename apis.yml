@@ -41,7 +41,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/united-states-capitol-police.png
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-05-03'
+modified: '2026-10-06'
 position: Consuming
 description: >-
   The United States Capitol Police (USCP) is a federal law enforcement agency
@@ -55,6 +55,8 @@ description: >-
   certain records publicly available upon request.
 apis: []
 common:
+  - url: https://www.uscp.gov/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/united-states-capitol-police-domain-security.yml
   - type: LinkedIn
